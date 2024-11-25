@@ -1,9 +1,9 @@
 # Music Genre Classification
 <p>
   
-The aim of “Music genre Classification” project is to analyze and classify a set of songs belonging to three different music genres, extracting audio features.
-The first step consists in collecting eighteen songs equally distributed among three different music genres, then extracting the audio features, time and frequency domain, for each song.
-The second step consists in divide the data into two groups, the first one represents the training set, the other one is the test set.
-The kNN, k-nearest neighbor algorithm, is used for the classification.
+The aim of the "Music Genre Classification" project is to analyze and classify a set of songs belonging to three different music genres by extracting audio features.
+The first step involves collecting eighteen songs, equally distributed among the three genres, and then extracting both time-domain and frequency-domain audio features for each song.
+The second step consists of dividing the data into two groups: the first group represents the training set, and the second group is the test set.
+The k-Nearest Neighbor (kNN) algorithm is used for classification.
 
 </p>
